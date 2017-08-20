@@ -1,5 +1,5 @@
 {
-  "name": "Weather Forecast",
+  "name": "ReduxSimpleStarter",
   "version": "1.0.0",
   "description": "Weather forecast app using Redux with React and Babel support",
   "main": "index.js",
